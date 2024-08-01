@@ -2,7 +2,7 @@ name='Alexey'
 print(name)
 age=18
 print(age)
-age1=age+2
-print(age1)
-is_student=age<age1 #or bool(1)
+age=age+2
+print(age)
+is_student=True
 print(is_student)
