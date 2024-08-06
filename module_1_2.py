@@ -1,6 +1,6 @@
 a=12
 b=1.5
 c='Python'
-d=(1.5/12)
+d=(b/a)
 end=(c,a,b,d)
 print(end)
